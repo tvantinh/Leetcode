@@ -1,0 +1,14 @@
+D:\Code\leetcodeEveryday\leetcodeEveryday\bin\Debug\net8.0\leetcodeEveryday.exe
+D:\Code\leetcodeEveryday\leetcodeEveryday\bin\Debug\net8.0\leetcodeEveryday.deps.json
+D:\Code\leetcodeEveryday\leetcodeEveryday\bin\Debug\net8.0\leetcodeEveryday.runtimeconfig.json
+D:\Code\leetcodeEveryday\leetcodeEveryday\bin\Debug\net8.0\leetcodeEveryday.dll
+D:\Code\leetcodeEveryday\leetcodeEveryday\bin\Debug\net8.0\leetcodeEveryday.pdb
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.AssemblyInfoInputs.cache
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.AssemblyInfo.cs
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.csproj.CoreCompileInputs.cache
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.dll
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\refint\leetcodeEveryday.dll
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.pdb
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\leetcodeEveryday.genruntimeconfig.cache
+D:\Code\leetcodeEveryday\leetcodeEveryday\obj\Debug\net8.0\ref\leetcodeEveryday.dll
