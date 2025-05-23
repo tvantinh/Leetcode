@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlLeetCode", "SqlLeetCode"
 		Question.txt = Question.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroArrayTransformation", "ZeroArrayTransformation\ZeroArrayTransformation.csproj", "{E70FAB25-421D-474E-A379-3EC32416F302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{15D45029-160E-4F92-88FB-E193F4C19E2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{FF795EA0-30DD-4D4A-91C2-ECFEB9F94FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF795EA0-30DD-4D4A-91C2-ECFEB9F94FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF795EA0-30DD-4D4A-91C2-ECFEB9F94FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E70FAB25-421D-474E-A379-3EC32416F302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E70FAB25-421D-474E-A379-3EC32416F302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E70FAB25-421D-474E-A379-3EC32416F302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E70FAB25-421D-474E-A379-3EC32416F302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

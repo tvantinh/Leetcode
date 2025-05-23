@@ -1,0 +1,15 @@
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\bin\Debug\net8.0\ZeroArrayTransformation.exe
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\bin\Debug\net8.0\ZeroArrayTransformation.deps.json
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\bin\Debug\net8.0\ZeroArrayTransformation.runtimeconfig.json
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\bin\Debug\net8.0\ZeroArrayTransformation.dll
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\bin\Debug\net8.0\ZeroArrayTransformation.pdb
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.AssemblyInfoInputs.cache
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.AssemblyInfo.cs
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.csproj.CoreCompileInputs.cache
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.sourcelink.json
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.dll
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\refint\ZeroArrayTransformation.dll
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.pdb
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ZeroArrayTransformation.genruntimeconfig.cache
+D:\Code\leetcodeEveryday\ZeroArrayTransformation\obj\Debug\net8.0\ref\ZeroArrayTransformation.dll

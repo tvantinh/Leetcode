@@ -1,0 +1,15 @@
+D:\Code\leetcodeEveryday\Reverse\bin\Debug\net8.0\Reverse.exe
+D:\Code\leetcodeEveryday\Reverse\bin\Debug\net8.0\Reverse.deps.json
+D:\Code\leetcodeEveryday\Reverse\bin\Debug\net8.0\Reverse.runtimeconfig.json
+D:\Code\leetcodeEveryday\Reverse\bin\Debug\net8.0\Reverse.dll
+D:\Code\leetcodeEveryday\Reverse\bin\Debug\net8.0\Reverse.pdb
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.AssemblyInfoInputs.cache
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.AssemblyInfo.cs
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.csproj.CoreCompileInputs.cache
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.sourcelink.json
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.dll
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\refint\Reverse.dll
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.pdb
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\Reverse.genruntimeconfig.cache
+D:\Code\leetcodeEveryday\Reverse\obj\Debug\net8.0\ref\Reverse.dll
