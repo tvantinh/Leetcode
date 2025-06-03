@@ -1,0 +1,15 @@
+D:\Code\leetcodeEveryday\TowSum\bin\Debug\net8.0\TowSum.exe
+D:\Code\leetcodeEveryday\TowSum\bin\Debug\net8.0\TowSum.deps.json
+D:\Code\leetcodeEveryday\TowSum\bin\Debug\net8.0\TowSum.runtimeconfig.json
+D:\Code\leetcodeEveryday\TowSum\bin\Debug\net8.0\TowSum.dll
+D:\Code\leetcodeEveryday\TowSum\bin\Debug\net8.0\TowSum.pdb
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.AssemblyInfoInputs.cache
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.AssemblyInfo.cs
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.csproj.CoreCompileInputs.cache
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.sourcelink.json
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.dll
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\refint\TowSum.dll
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.pdb
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\TowSum.genruntimeconfig.cache
+D:\Code\leetcodeEveryday\TowSum\obj\Debug\net8.0\ref\TowSum.dll

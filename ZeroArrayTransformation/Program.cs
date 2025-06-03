@@ -4,7 +4,7 @@
     {
         for (int i = 0; i < nums.Length; i++)
         {
-            int count = 0;//tính để đủ
+            int count = 0;
             for (int j = 0; j < queries.Length; j++)
             {
                 if (i >= queries[j][0] && i <= queries[j][1])
@@ -21,6 +21,6 @@
         int[] nums = {2};
         int[][] queries = { new int[] { 0, 0 }, new int[] { 0, 0 } };
         bool result = solution.IsZeroArray(nums, queries);
-        Console.WriteLine(result); // Output: false
+        Console.WriteLine(result);
     }
 }

@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroArrayTransformation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{15D45029-160E-4F92-88FB-E193F4C19E2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowSum", "TowSum\TowSum.csproj", "{19913B1E-C35C-4281-9B61-7729F66C1AC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15D45029-160E-4F92-88FB-E193F4C19E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19913B1E-C35C-4281-9B61-7729F66C1AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19913B1E-C35C-4281-9B61-7729F66C1AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19913B1E-C35C-4281-9B61-7729F66C1AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19913B1E-C35C-4281-9B61-7729F66C1AC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
