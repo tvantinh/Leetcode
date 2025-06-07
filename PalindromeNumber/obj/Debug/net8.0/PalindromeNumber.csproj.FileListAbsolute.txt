@@ -1,0 +1,15 @@
+D:\Code\leetcodeEveryday\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+D:\Code\leetcodeEveryday\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.deps.json
+D:\Code\leetcodeEveryday\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.runtimeconfig.json
+D:\Code\leetcodeEveryday\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+D:\Code\leetcodeEveryday\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.pdb
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.sourcelink.json
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.genruntimeconfig.cache
+D:\Code\leetcodeEveryday\PalindromeNumber\obj\Debug\net8.0\ref\PalindromeNumber.dll
